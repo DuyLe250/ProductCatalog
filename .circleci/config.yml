@@ -12,7 +12,7 @@ jobs:
     steps:
       - checkout
 
-      # 🔥 Install Java 8 manually and switch to it
+  
       - run:
           name: Install Java 8
           command: |
